@@ -1,4 +1,5 @@
+program to mutiply two inputs from the user
 A = int(input("enter the value")
 B = int(input("enter the vale")
 C = (A * B)
-print("multiplication of A & B is", &c)
+print("multiplication of A & B is", &C)
