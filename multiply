@@ -1,4 +1,4 @@
-program to mutiply two inputs
+program to mutiply two inputs from the user
 A = int(input("enter the value")
 B = int(input("enter the vale")
 C = (A * B)
